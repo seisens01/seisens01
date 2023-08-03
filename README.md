@@ -17,7 +17,6 @@ collection, data processing, data analysis and statistics, and scientific writin
 - 🌱 I’m currently learning all things data analytics! I am taking Data Analytics career pathway courses online at DataCamp and LinkedIn Learning. I have previous experience in R, SQL, Excel, Power BI and Tableau.
 
 - 📫 How to reach me ...
-    -Message me here OR
     -email: seisens@gmail.com
 
   Please reach out to me for any reason - I love discussing all things data!
